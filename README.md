@@ -13,4 +13,5 @@
 - [W3 Validator](http://validator.w3.org/)
 - [Can I Use](https://caniuse.com/)
 - [W3School](https://www.w3schools.com)
-- [Codewars](https://www.codewars.com)
+- [Типы ссылок](https://developer.mozilla.org/ru/docs/Web/HTML/Link_types)
+- [normalize](https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css)

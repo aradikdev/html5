@@ -1,0 +1,87 @@
+body{
+   font-family: 'Raleway', Arial, sans-serif;
+   font-size: 16px;
+   color: #142367;
+}
+
+.header{
+    background-color: #243d72;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+.header a{
+   color: #ffffff;
+   padding-right: 20px;
+   text-decoration: none;
+   font-size: 18px;
+}
+.header .logo{
+   font-size: 22px;
+   font-weight: bold;
+   text-transform: uppercase;
+}
+.main{
+   background-color: #f9faff;
+   padding: 40px;
+   min-height: 600px;
+}
+.main h1{
+   margin-top: 0;
+}
+.head{
+   text-align: center;
+   padding-top: 40px;
+}
+.head_title{
+   font-size: 30px;
+   color: #ff6f40;
+}
+.head_contact a{
+   color: #000000;
+   text-decoration: none;
+   border-bottom: 1px dashed #000000;
+}
+
+/* Боксы */
+.box{
+   width: 600px;
+   border: 1px solid #777272;
+   padding: 40px;
+   margin: 0 auto;
+   margin-bottom: 30px;
+}
+.box h2{
+   font-size: 22px;
+   text-align: center;
+   color: #ff6f40;
+}
+.box li{
+   margin-bottom: 20px;
+}
+.box strong{
+   text-transform: uppercase;
+}
+
+/* Подвал */
+.footer{
+   background-color: #000000;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 30px;
+   padding-right: 30px;
+   text-align: center;
+}
+.footer a{
+  color: #ffffff;
+  padding-right: 20px;
+  text-decoration: none;
+  font-size: 18px;
+}
+.footer .logo{
+   font-size: 22px;
+   font-weight: bold;
+   text-transform: uppercase;
+}

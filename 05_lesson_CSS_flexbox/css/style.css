@@ -1,0 +1,45 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #1d3557;
+    height: 100px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    line-height: 100px;
+    margin: 0;
+}
+
+.boxes {}
+
+.box {
+    padding: 10px;
+    margin: 10px;
+    color: #ffffff;
+}
+
+.box_1 {
+    background-color: #e63946;
+    height: 100px;
+    width: 100px;
+}
+
+.box_2 {
+    background-color: #ffcdb2;
+    height: 150px;
+    width: 150px;
+}
+
+.box_3 {
+    background-color: #2a9d8f;
+    height: 200px;
+    width: 200px;
+}

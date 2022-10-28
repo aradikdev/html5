@@ -19,7 +19,18 @@ h1 {
 }
 
 .container {
-    border: 5px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.box_1 {
+    /* Числовые значения, в том числе отрицательные */
+    order: 5;
+    /* default is 0 */
+    order: -5;
+
 }
 
 .box {
@@ -45,3 +56,21 @@ h1 {
     height: 200px;
     width: 200px;
 }
+
+
+
+/* 
+.nav { 
+    display: flex;
+    justify-content: flex-end;
+}
+@media all and (max-width: 1000px) {
+    .nav {
+        justify-content: space-around;
+    }
+}
+@media all and (max-width: 600px) {
+    .nav {
+        flex-direction: column;
+    }
+} */
